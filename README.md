@@ -1,2 +1,2 @@
-# MachineLearning
-Machine learning using python language
+# Ship Identification
+Xác định tàu biển bằng phương pháp phân cụm bán giám sát
