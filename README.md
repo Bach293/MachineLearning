@@ -1,2 +1,2 @@
 # Ship Identification
-Xác định tàu biển bằng phương pháp phân cụm bán giám sát
+Ship detection from satellite images based on a safe fuzzy semi-supervised method
